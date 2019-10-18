@@ -15,8 +15,8 @@
         </dependency>
     </dependencies>
     <modules>
-        <module>hello</module>
-        <module>web</module>
+        <module>springboot-hello</module>
+        <module>springboot-web</module>
         <module>springboot-redis</module>
         <module>springboot-mybatis/springboot-mybatis-annotation</module>
         <module>springboot-mybatis/springboot-mybatis-xml</module>
