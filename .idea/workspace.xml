@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02fd6fe9-7d78-41a5-b290-9d58aeac891c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_projectlombok_lombok_1_16_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/WebApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/repository/UserRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/util/NeoProperties.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/HelloController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/ThymeleafController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/test/java/com/springboot/web/WebApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/misc.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/modules.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/pom.xml" afterPath="$PROJECT_DIR$/../springbootdemo/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../springbootdemo/out/" />
     <ignored path="$PROJECT_DIR$/../springbootdemo/target/" />
@@ -38,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="e#351#352#0" expanded="true" />
                 <element signature="e#378#379#0" expanded="true" />
@@ -61,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,8 +112,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="670" />
-    <option name="y" value="169" />
+    <option name="x" value="828" />
+    <option name="y" value="171" />
     <option name="width" value="1822" />
     <option name="height" value="1054" />
   </component>
@@ -411,15 +394,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571305059724</updated>
-      <workItem from="1571305061268" duration="1675000" />
+      <workItem from="1571305061268" duration="2923000" />
     </task>
+    <task id="LOCAL-00001" summary="springweb信息">
+      <created>1571306803325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571306803325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1675000" />
+    <option name="totallyTimeSpent" value="2923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -436,7 +428,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18453333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18453333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -458,6 +450,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springweb信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="springweb信息" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -488,8 +484,8 @@
         <state relative-caret-position="135">
           <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -559,7 +555,7 @@
         <state relative-caret-position="405">
           <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -577,7 +573,7 @@
     <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="e#351#352#0" expanded="true" />
             <element signature="e#378#379#0" expanded="true" />
@@ -596,7 +592,7 @@
     <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
