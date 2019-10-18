@@ -5,7 +5,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-//@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
 @MapperScan("com.example.springbootmybatisannotation")
 public class SpringbootMybatisAnnotationApplication {
 
