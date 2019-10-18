@@ -7,12 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hello" />
+        <module name="springboot-mybatis-annotation" />
+        <module name="springboot-mybatis-xml" />
+        <module name="springboot-mybtis-xml" />
+        <module name="springboot-redis" />
         <module name="springbootdemo" />
         <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hello" target="1.8" />
+      <module name="springboot-mybatis-annotation" target="1.8" />
+      <module name="springboot-mybatis-xml" target="1.8" />
+      <module name="springboot-mybtis-xml" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
       <module name="springbootdemo" target="1.8" />
       <module name="web" target="1.8" />
     </bytecodeTargetLevel>
