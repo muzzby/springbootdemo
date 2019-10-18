@@ -1,88 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02fd6fe9-7d78-41a5-b290-9d58aeac891c" name="Default" comment="springweb信息">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__io_netty_netty_buffer_4_1_42_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__io_netty_netty_codec_4_1_42_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__io_netty_netty_common_4_1_42_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__io_netty_netty_handler_4_1_42_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__io_netty_netty_resolver_4_1_42_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__io_netty_netty_transport_4_1_42_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_springframework_session_spring_session_data_redis_2_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/src/main/java/com/example/springbootmybatisannotation/SpringbootMybatisAnnotationApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/src/main/java/com/example/springbootmybatisannotation/enums/UserSexEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/src/main/java/com/example/springbootmybatisannotation/mapper/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/src/main/java/com/example/springbootmybatisannotation/model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/src/main/java/com/example/springbootmybatisannotation/web/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/src/test/java/com/example/springbootmybatisannotation/SpringbootMybatisAnnotationApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-annotation/users.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/SpringbootMybtisXmlApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/enums/UserSexEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/mapper/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/web/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/resources/mybatis/mapper/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/resources/mybatis/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/test/java/com/example/springbootmybatisxml/SpringbootMybtisXmlApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/users.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/src/main/java/com/example/springbootredis/SpringbootRedisApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/src/main/java/com/example/springbootredis/config/RedisConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/src/main/java/com/example/springbootredis/config/SessionConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/src/main/java/com/example/springbootredis/model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/src/main/java/com/example/springbootredis/web/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/src/test/java/com/example/springbootredis/SpringbootRedisApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-redis/src/test/java/com/example/springbootredis/Test/TestRedis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/WebConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/misc.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/modules.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/modules.xml" />
+    <list default="true" id="02fd6fe9-7d78-41a5-b290-9d58aeac891c" name="Default" comment="新增mybatis的注解和xml两种方式">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../springbootdemo/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/pom.xml" afterPath="$PROJECT_DIR$/../springbootdemo/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/model/User.java" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/model/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../springbootdemo/web/src/main/resources/application.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/hello/.mvn/wrapper/MavenWrapperDownloader.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-hello/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/hello/.mvn/wrapper/maven-wrapper.jar" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-hello/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/hello/.mvn/wrapper/maven-wrapper.properties" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-hello/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/hello/pom.xml" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-hello/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/hello/src/main/java/com/first/hello/HelloApplication.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-hello/src/main/java/com/first/hello/HelloApplication.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/hello/src/main/java/com/first/hello/controler/HelloController.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-hello/src/main/java/com/first/hello/controler/HelloController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/hello/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-hello/src/main/resources/application.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/hello/src/test/java/com/first/hello/HelloApplicationTests.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-hello/src/test/java/com/first/hello/HelloApplicationTests.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/.mvn/wrapper/MavenWrapperDownloader.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/.mvn/wrapper/maven-wrapper.jar" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/.mvn/wrapper/maven-wrapper.properties" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/pom.xml" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/WebApplication.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/WebApplication.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/WebConfiguration.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/WebConfiguration.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/model/User.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/model/User.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/repository/UserRepository.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/repository/UserRepository.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/util/NeoProperties.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/util/NeoProperties.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/HelloController.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/web/HelloController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/ThymeleafController.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/web/ThymeleafController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/UserController.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/web/UserController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/resources/application.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../springbootdemo/web/src/test/java/com/springboot/web/WebApplicationTests.java" afterPath="$PROJECT_DIR$/../springbootdemo/springboot-web/src/test/java/com/springboot/web/WebApplicationTests.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../springbootdemo/out/" />
     <ignored path="$PROJECT_DIR$/../springbootdemo/target/" />
@@ -103,73 +45,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/resources/mybatis/mapper/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-113">
-              <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-              <folding>
-                <marker date="1571392495852" expanded="true" signature="893:959" ph="SELECT FROM users" />
-                <marker date="1571392495852" expanded="true" signature="1066:1153" ph="SELECT FROM users" />
-                <marker date="1571392495852" expanded="true" signature="1262:1412" ph="INSERT INTO users" />
-                <marker date="1571392495852" expanded="true" signature="1525:1756" ph="UPDATE users... " />
-                <marker date="1571392495852" expanded="true" signature="1840:1902" ph="DELETE FROM " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/model/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpringbootMybtisXmlApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/SpringbootMybtisXmlApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/web/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-              <folding>
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -229,6 +105,7 @@
         <option value="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/java/com/example/springbootmybatisxml/SpringbootMybtisXmlApplication.java" />
         <option value="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/pom.xml" />
         <option value="$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/resources/mybatis/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -293,132 +170,7 @@
             <path>
               <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootmybatisannotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-xml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-xml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-xml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-xml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-xml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootmybatisxml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-xml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootmybatisxml" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-xml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-xml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-xml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -604,7 +356,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571305059724</updated>
-      <workItem from="1571305061268" duration="14590000" />
+      <workItem from="1571305061268" duration="14798000" />
     </task>
     <task id="LOCAL-00001" summary="springweb信息">
       <created>1571306803325</created>
@@ -627,15 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571363323432</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新增mybatis的注解和xml两种方式">
+      <created>1571392580051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571392580051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14590000" />
+    <option name="totallyTimeSpent" value="14798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -652,12 +410,12 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3304253" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30752453" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -687,7 +445,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="springweb信息" />
-    <option name="LAST_COMMIT_MESSAGE" value="springweb信息" />
+    <MESSAGE value="新增mybatis的注解和xml两种方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增mybatis的注解和xml两种方式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -696,17 +455,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/hello/HELP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springbootdemo/hello/mvnw.cmd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3402">
@@ -715,7 +463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/hello/src/main/java/com/first/hello/controler/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-hello/src/main/java/com/first/hello/controler/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
@@ -735,7 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/hello/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-hello/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
@@ -743,7 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
@@ -751,7 +499,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/web/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
@@ -762,7 +510,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/ThymeleafController.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/web/ThymeleafController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
@@ -770,7 +518,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/model/User.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="891">
           <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
@@ -781,7 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -789,7 +537,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/util/NeoProperties.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/util/NeoProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
@@ -805,7 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/repository/UserRepository.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/repository/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
@@ -924,7 +672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/WebConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/WebConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
@@ -940,7 +688,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/WebApplication.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/WebApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -948,7 +696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/hello/src/main/java/com/first/hello/HelloApplication.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-hello/src/main/java/com/first/hello/HelloApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
@@ -972,7 +720,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootdemo/web/src/main/java/com/springboot/web/web/UserController.java">
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-web/src/main/java/com/springboot/web/web/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
@@ -1055,7 +803,7 @@
         <state relative-caret-position="243">
           <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1105,8 +853,8 @@
         <state relative-caret-position="433">
           <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           <folding>
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="false" />
+            <element signature="e#884#885#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1143,8 +891,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../springbootdemo/springboot-mybatis/springboot-mybatis-xml/src/main/resources/mybatis/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state relative-caret-position="1242">
+          <caret line="46" column="4" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
           <folding>
             <marker date="1571392495852" expanded="true" signature="893:959" ph="SELECT FROM users" />
             <marker date="1571392495852" expanded="true" signature="1066:1153" ph="SELECT FROM users" />
@@ -1152,6 +900,14 @@
             <marker date="1571392495852" expanded="true" signature="1525:1756" ph="UPDATE users... " />
             <marker date="1571392495852" expanded="true" signature="1840:1902" ph="DELETE FROM " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springbootdemo/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
