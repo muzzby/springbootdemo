@@ -11,16 +11,24 @@
         <module name="springboot-mybatis-xml" />
         <module name="springboot-mybtis-xml" />
         <module name="springboot-redis" />
-        <module name="springbootdemo" />
+        <module name="springbootannotation" />
         <module name="web" />
+      </profile>
+      <profile name="Annotation profile for springbootdemo" enabled="true">
+        <sourceOutputDir name="../hello/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../hello/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-hello" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hello" target="1.8" />
+      <module name="springboot-hello" target="1.8" />
       <module name="springboot-mybatis-annotation" target="1.8" />
       <module name="springboot-mybatis-xml" target="1.8" />
       <module name="springboot-mybtis-xml" target="1.8" />
       <module name="springboot-redis" target="1.8" />
+      <module name="springbootannotation" target="1.8" />
       <module name="springbootdemo" target="1.8" />
       <module name="web" target="1.8" />
     </bytecodeTargetLevel>
